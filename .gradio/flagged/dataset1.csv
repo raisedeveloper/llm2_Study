@@ -1,0 +1,2 @@
+이미지  URL 입력,예측 결과,timestamp
+https://health.chosun.com/site/data/img_dir/2024/04/19/2024041901914_0.jpg,"{""label"": ""cheeseburger"", ""confidences"": [{""label"": ""cheeseburger"", ""confidence"": 0.7931190729141235}, {""label"": ""meat_loaf"", ""confidence"": 0.016218876466155052}, {""label"": ""guacamole"", ""confidence"": 0.006633389741182327}]}",2025-03-28 16:01:20.684399
